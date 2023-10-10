@@ -1,4 +1,4 @@
-# Linear Regression in Python: A Case Study
+# Linear Regression in Python
 
 ## Overview
 
